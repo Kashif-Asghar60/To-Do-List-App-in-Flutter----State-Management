@@ -1,16 +1,7 @@
 # state_management
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To-Do List App using Flutter for IOS & Android
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An App where user can add his daily routine tasks. I have implemented the state manangement with provider dependency, a simple clean UI with floating widgets. User can check or cancel the task in the App.
