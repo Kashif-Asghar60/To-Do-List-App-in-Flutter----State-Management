@@ -1,4 +1,4 @@
-# state_management
+# To-Do App
 
 ## Getting Started
 
